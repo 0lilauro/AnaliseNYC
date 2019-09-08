@@ -29,7 +29,7 @@
 > Ao decorrer da análise, todas as bibliotecas utilizadas serão explicadas com mais detalhes para que o leitor não sinta-se prejudicado por não entender o porque e como está sendo a implementação de cada parte do código.
 >
 > Todo a análise foi estruturada utilizando Notebook Jupyter utilizando conexões públicas com o banco de dados da Amazon Redshift, e pode ser encontrada no 
-[nbviewer](). Além de estar disponivel no arqui Analise.html do diretório atual.
+[nbviewer](https://nbviewer.jupyter.org/github/0lilauro/AnaliseNYC/blob/master/Analise%20NYC%20Taxi%20Trips%20.ipynb). Além de estar disponivel no arqui Analise.html do diretório atual.
 >
 > Só é necessária a lida do arquivo para entender todo o estudo.
 >
