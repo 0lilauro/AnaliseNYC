@@ -25,7 +25,7 @@
 > - [Numpy](https://www.numpy.org/)
 > - [Pandas](https://pandas.pydata.org/)
 > - [Postgres Connector (Psycopg2)](https://pypi.org/project/psycopg2/)
-> - [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
+> - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
 >
 >Ao decorrer da análise, todas as bibliotecas utilizadas serão explicadas com mais detalhes para que o leitor não sinta-se prejudicado por não entender o porque e como está sendo a implementação de cada parte do código.
 >
